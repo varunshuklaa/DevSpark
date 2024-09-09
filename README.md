@@ -32,4 +32,4 @@ To run the project locally, follow these steps:
 
 ## Contributors
 
-- Shashwat Dixit
+- Varun Shukla

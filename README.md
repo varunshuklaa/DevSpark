@@ -10,7 +10,6 @@ DEVSPARK - RESPONSIVE UI is a project developed for the intercollege hackathon p
 - CSS: Styling language used to customize the appearance of the website.
 - Bootstrap 4: Front-end framework for building responsive and mobile-first websites.
 - JavaScript: Programming language used for client-side scripting to add interactivity and dynamic behavior to the website.
-- React: JavaScript library for building user interfaces, providing a component-based approach for building reusable UI elements.
 
 ## Features
 
